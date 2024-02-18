@@ -1,5 +1,5 @@
 # MazeGame_12Project
-This program is a terminal maze game project for the course CMSC 12. It is written in Python, and it allows the user to navigate a randomly generated maze using keyboard commands.
+This program is a terminal maze game project for the course CMSC 12. It is written in Python, and it allows the user to navigate a loaded maze using keyboard commands.
 
 ## Features
 - Written in Python
